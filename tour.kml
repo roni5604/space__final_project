@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="40">
+        <gx:Tour>
+            <name>ISS Flight Tour</name>
+            <gx:Playlist>
+                <gx:FlyTo id="43">
+                    <gx:duration>2.0</gx:duration>
+                    <gx:flyToMode>bounce</gx:flyToMode>
+                    <LookAt>
+                        <longitude>48.34925125623847</longitude>
+                        <latitude>23.530470517715127</latitude>
+                        <altitude>418.77601987634847</altitude>
+                        <heading>0</heading>
+                        <tilt>0</tilt>
+                        <range>700000</range>
+                    </LookAt>
+                </gx:FlyTo>
+                <gx:Wait id="45">
+                    <gx:duration>1.0</gx:duration>
+                </gx:Wait>
+                <gx:FlyTo id="46">
+                    <gx:duration>2.0</gx:duration>
+                    <gx:flyToMode>bounce</gx:flyToMode>
+                    <LookAt>
+                        <longitude>48.567257768886115</longitude>
+                        <latitude>23.769865375791536</latitude>
+                        <altitude>418.79558400099575</altitude>
+                        <heading>0</heading>
+                        <tilt>0</tilt>
+                        <range>700000</range>
+                    </LookAt>
+                </gx:FlyTo>
+                <gx:Wait id="48">
+                    <gx:duration>1.0</gx:duration>
+                </gx:Wait>
+                <gx:FlyTo id="49">
+                    <gx:duration>2.0</gx:duration>
+                    <gx:flyToMode>bounce</gx:flyToMode>
+                    <LookAt>
+                        <longitude>48.78616845489991</longitude>
+                        <latitude>24.00891592804069</latitude>
+                        <altitude>418.8155628896073</altitude>
+                        <heading>0</heading>
+                        <tilt>0</tilt>
+                        <range>700000</range>
+                    </LookAt>
+                </gx:FlyTo>
+                <gx:Wait id="51">
+                    <gx:duration>1.0</gx:duration>
+                </gx:Wait>
+                <gx:FlyTo id="52">
+                    <gx:duration>2.0</gx:duration>
+                    <gx:flyToMode>bounce</gx:flyToMode>
+                    <LookAt>
+                        <longitude>49.00576557021434</longitude>
+                        <latitude>24.247367527144874</latitude>
+                        <altitude>418.83592920796696</altitude>
+                        <heading>0</heading>
+                        <tilt>0</tilt>
+                        <range>700000</range>
+                    </LookAt>
+                </gx:FlyTo>
+                <gx:Wait id="54">
+                    <gx:duration>1.0</gx:duration>
+                </gx:Wait>
+                <gx:FlyTo id="55">
+                    <gx:duration>2.0</gx:duration>
+                    <gx:flyToMode>bounce</gx:flyToMode>
+                    <LookAt>
+                        <longitude>49.22643097227655</longitude>
+                        <latitude>24.485616589729023</latitude>
+                        <altitude>418.8567111561066</altitude>
+                        <heading>0</heading>
+                        <tilt>0</tilt>
+                        <range>700000</range>
+                    </LookAt>
+                </gx:FlyTo>
+                <gx:Wait id="57">
+                    <gx:duration>1.0</gx:duration>
+                </gx:Wait>
+            </gx:Playlist>
+        </gx:Tour>
+    </Document>
+</kml>

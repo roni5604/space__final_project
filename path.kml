@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="36">
+        <Placemark id="38">
+            <name>ISS Path</name>
+            <LineString id="37">
+                <extrude>1</extrude>
+                <tessellate>1</tessellate>
+                <altitudeMode>relativeToGround</altitudeMode>
+                <coordinates>48.34925125623847,23.530470517715127,418.77601987634847 48.567257768886115,23.769865375791536,418.79558400099575 48.78616845489991,24.00891592804069,418.8155628896073 49.00576557021434,24.247367527144874,418.83592920796696 49.22643097227655,24.485616589729023,418.8567111561066</coordinates>
+            </LineString>
+        </Placemark>
+    </Document>
+</kml>

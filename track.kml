@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2">
+    <Document id="29">
+        <Placemark id="31">
+            <name>ISS</name>
+            <LookAt>
+                <longitude>49.22643097227655</longitude>
+                <latitude>24.485616589729023</latitude>
+                <altitude>418.8567111561066</altitude>
+                <heading>0</heading>
+                <tilt>0</tilt>
+                <range>700000</range>
+            </LookAt>
+            <Point id="30">
+                <coordinates>49.22643097227655,24.485616589729023,418.8567111561066</coordinates>
+                <altitudeMode>relativeToGround</altitudeMode>
+            </Point>
+        </Placemark>
+        <NetworkLink id="33">
+            <name>ISS Tracker</name>
+            <Link id="34">
+                <href>track.kml</href>
+                <refreshMode>onInterval</refreshMode>
+                <refreshInterval>5</refreshInterval>
+            </Link>
+        </NetworkLink>
+    </Document>
+</kml>
